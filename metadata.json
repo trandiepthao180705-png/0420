@@ -1,0 +1,6 @@
+{
+  "name": "Nhật Kí Tâm Trạng",
+  "description": "Ứng dụng web viết nhật kí tâm trạng hàng ngày, sử dụng localStorage để lưu dữ liệu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
