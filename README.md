@@ -2,8 +2,8 @@
 나의 기분과 짧은 메모를 핑크빛 엽서처럼 예쁘게 남기고 보관할 수 있는 감정 다이어리 웹앱입니다.
 
 ## 📸 스크린샷
-![alt t<img width="1425" height="725" alt="화면 캡처 2026-04-20 122630" src="https://github.com/user-attachments/assets/c78dce96-5db0-455f-b78b-f636feee96c6" />
-ext](./screenshot.png)
+<img width="1425" height="725" alt="화면 캡처 2026-04-20 122630" src="https://github.com/user-attachments/assets/5fd5d019-6963-4dc6-9efa-6d86fb1f3cac" />
+
 
 ## 🚀 사용법
 1. index.html(또는 웹앱 링크)을 브라우저에서 연다.
